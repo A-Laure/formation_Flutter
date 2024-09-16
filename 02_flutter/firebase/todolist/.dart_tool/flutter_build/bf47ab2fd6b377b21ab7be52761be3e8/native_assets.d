@@ -1,0 +1,1 @@
+ D:\\Users\\alfor\\Documents\\GitHub\\Formation_dev\\02_flutter\\firebase\\todolist\\.dart_tool\\flutter_build\\bf47ab2fd6b377b21ab7be52761be3e8\\native_assets.yaml: 

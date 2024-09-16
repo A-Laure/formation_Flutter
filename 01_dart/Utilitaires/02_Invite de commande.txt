@@ -1,0 +1,10 @@
+ - ls : on voit les dossiers du chemin où l'on est (sauf les cachés)
+ - ls la : pour voir les fichiers cachés
+ - cd : change directory (pour atteindre un chemin)
+ - cd .. : remonte d'un cran dans le chemin
+ - mkdir : pour créer un dossier mkdir + nomdossier + . (A VERIFIER)
+ - flutter doctor : diagnostic pendant l'install
+ - dart nomfichier. dart -> permet de lancre le programme dans le terminal
+ - pwd : nous donne le chemin où l'on est
+ - cd (ou dart)  + tab : fait défiler les dossiers ou fichiers selon où l'on est
+ 

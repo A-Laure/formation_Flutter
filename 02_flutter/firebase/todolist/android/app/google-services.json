@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387876428310",
+    "project_id": "form-dev-1",
+    "storage_bucket": "form-dev-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387876428310:android:0fdba9c744202b7473f337",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPbpdxq-CQy5sGhw7QauXlIzaMts74Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+- [ : shift + alt + ( touche 5
+- ] : shift + alt + ) touche °
+- \ : alt + maj + /
+- {} : alt + 5
+- | : shift + alt + l
+- pour voir un fichier caché sur mac : cmd + shift + .
+- pour voir un fichier caché sur window : affichage, extension fichier caché commencent par un point
+- cmd + ou - fait zoom
+
+

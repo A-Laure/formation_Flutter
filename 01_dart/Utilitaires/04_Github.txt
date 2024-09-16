@@ -1,0 +1,2 @@
+- Github -> pc : copier / coller le dossier /Users/dm-04/Documents/GitHub/Formation-flutter/
+- PC -> Github : j'ouvre GitHup je mets un titre ds summary, je fais push, il le met sur le serveur et à la maison, je fais pull pour récupérer

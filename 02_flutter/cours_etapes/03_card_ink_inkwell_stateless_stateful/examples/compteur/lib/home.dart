@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+import 'package:heart_icon/compteur.dart';
+
+
+class MyWidget extends StatelessWidget {
+  const MyWidget({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text('Compteur')),
+      body : Center(
+        child : Compteur()
+    ),
+    );
+  }
+}

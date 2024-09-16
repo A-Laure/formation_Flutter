@@ -1,0 +1,47 @@
+- MDN , doc super sauf que pas DART dedans
+- JS : doc MDN, 3wschool à éviter
+- Notion : appli de prises de note, base de données, calendrier etc...
+- Rec de stage : via google (voir lien Damien Drive), Urban linker (+++)
+- WAPPALYZER = permet de savoir sur quelle techno tourne le site
+- DAILY.DEV = Permet de se faire une page avec ses réfrences (VEILLE TECHNIQUE par exemple) Daily.dev est une extension de navigateur qui change 
+              votre page d'accueil par un flux d'articles autour du monde du développement.
+- Tuto Flutter : Driss (moyen), Graven (bon techniquement), dev community, flutter médium
+- PWA : petit logo à droite dans la barre d'adresse url qui "télécharge la page en mode mobile", marche aussi sans connexion mais reste sur 
+        l'ancienne, il stocke les données sur notre machine
+- Réseau : Meet up, Kaliop webinair, la Mêlée, afup (asso PHP)
+- taper Flutter dans Welcome to the jungle
+- TLDRAW : Tldraw est une application de dessin collaborative en ligne qui permet de dessiner et de partager des dessins avec d'autres personnes.
+- DRAW IO : (diagramme technique) / Draw.io est une application gratuite en ligne, accessible via son navigateur (protocole https) 
+            qui permet de dessiner des diagrammes ou des organigrammes. Cet outil vous propose de concevoir toutes sortes de diagrammes, 
+            de dessins vectoriels, de les enregistrer au format XML puis de les exporter. Draw.io est un veritable couteau suisse de la frise 
+            chronologique, de la carte mentale et des diagrammes de tout genre.
+- EXCALIDRAW.COM : (cours, présentation) Excalidraw est une sorte de tableau blanc qui permet de tracer des diagrammes et infographies 
+                    diverses en ligne et de façon collaborative.
+- APP.DIAGRAMS.NET : diagramme (comme les procédures), dessin technique
+- GOOGLE MEET : est un service de visioconférences et d'appels vidéo sécurisés et de haute qualité pour tous les utilisateurs, sur n'importe quel appareil. Google ...
+- DISCORD : st une application de messagerie gratuite, qui vous permet d'effectuer des échanges vocaux, vidéos ou textuels avec vos amis, ...
+- FIGMA : est une plateforme collaborative pour éditer des graphiques vectoriels et faire du prototypage. Elle permet de concevoir des design systems pour faciliter ...
+- .SVG : qd on agrandi image, pas de pixelisation
+- API : "jeu de données" -> = CLOUDSTORE sert à ce que les données soient les mêmes partout, API sont des mécanismes qui permettent à deux composants logiciels de communiquer entre eux 
+        à l'aide d'un ensemble de définitions et de protocoles. Par exemple, le système logiciel du bureau météorologique contient les données météorologiques quotidiennes.
+- API bis : atttention qd on a une API propre, ne pas donner accés surtout qd partage de fichiers, peut se faire "piquer" mais on peut la partager
+- .JSON: JS object notation, type de données qd on fait une API 
+         -> Nous on recevra ou enverra une donnée via une API en tant que "Flutter"
+- .PNG : Une image PNG ne perd pas ses données lorsqu'elle est compressée, ce qui simplifie considérablement son stockage et son transfert.
+-  JSONPLACEHOLDER : un service en ligne REST gratuit que vous pouvez utiliser pour tester votre code et vos prototypes. Il fournit un ensemble d'API REST factices 
+                      qui renvoient des données JSON et vous permet de tester votre application sans avoir besoin d'un backend réel.
+- dans une B2données, on ne peut stocker une image, du coup on stocke l'URL
+- UI : fait choix couleur, comment mettre en évidence et intéraction UI = interface
+- UX : structure page "comme ça", à droite la mail etc... UX = expérience
+- ARC BROWSER : Arc est un réel système d'exploitation pour Internet permettant d'améliorer votre expérience de navigation : meilleur chargement des pages, sécurité 
+                renforcée, bloqueur de publicités intégré (uBlock Origin), fonctionnalités uniques et originales, voyons ce qu'a à offrir Arc Browser, ce navigateur 
+                alternatif à, qui réinvente la manière de naviguer sur le web.
+- Start up : vaut mieux travailler qd elle débute car a plein d'argent (il y a des statuts)
+- MYSQL = serveur de données, SQL = langage
+- FIREBASE : C'est du NOSQL / Firebase est une plate-forme de développement d'applications Web et mobiles. Avec Firebase, vous pouvez rapidement créer des applications de haute qualité, 
+             développer une base d'utilisateurs engagés et gagner plus d'argent. 
+- NOSQL : 
+- AIRTABLE : (= FIREBASE) C'est du NOSQL
+- SUPABASE : (= FIREBASE) C'est du NOSQL
+- jetbrains = comme visual studio code / console spécialisée par langage
+- Hunter : recherche de coordonnées des entreprise

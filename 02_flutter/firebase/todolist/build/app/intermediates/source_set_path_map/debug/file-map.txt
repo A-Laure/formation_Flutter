@@ -1,0 +1,17 @@
+com.example.todolist.app-jetified-annotation-experimental-1.1.0-0 C:\Users\alfor\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.todolist.app-core-1.6.0-1 C:\Users\alfor\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+com.example.todolist.app-jetified-window-1.0.0-beta04-2 C:\Users\alfor\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+com.example.todolist.app-jetified-play-services-basement-18.1.0-3 C:\Users\alfor\.gradle\caches\transforms-3\812b774e80ed6f3274e67e516e447223\transformed\jetified-play-services-basement-18.1.0\res
+com.example.todolist.app-jetified-firebase-common-20.4.2-4 C:\Users\alfor\.gradle\caches\transforms-3\8adc41e1868e9d15f43c78d8ff0d3012\transformed\jetified-firebase-common-20.4.2\res
+com.example.todolist.app-jetified-window-java-1.0.0-beta04-5 C:\Users\alfor\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.todolist.app-jetified-play-services-base-18.0.1-6 C:\Users\alfor\.gradle\caches\transforms-3\da836af96063471d9ecc25668dfd26c9\transformed\jetified-play-services-base-18.0.1\res
+com.example.todolist.app-debug-7 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\android\app\src\debug\res
+com.example.todolist.app-main-8 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\android\app\src\main\res
+com.example.todolist.app-pngs-9 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\generated\res\pngs\debug
+com.example.todolist.app-resValues-10 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\generated\res\resValues\debug
+com.example.todolist.app-rs-11 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\generated\res\rs\debug
+com.example.todolist.app-mergeDebugResources-12 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.todolist.app-mergeDebugResources-13 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.todolist.app-merged_res-14 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\app\intermediates\merged_res\debug
+com.example.todolist.app-packaged_res-15 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.todolist.app-packaged_res-16 D:\Users\alfor\Documents\GitHub\Formation_dev\02_flutter\firebase\todolist\build\firebase_core\intermediates\packaged_res\debug

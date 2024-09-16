@@ -1,0 +1,43 @@
+- le programme commence toujours par le "main"
+- Vaut mieux sortir les fonctions du "main", void main () lance le DART
+- une fonction dans une classe = 1 méthode
+- print('/n'), fait un saut de ligne = print(' ') mais en mieux
+- Map est une classe 
+- .lenght est une propriété 
+- addAll (par ex) est une méthode ( = une action) car il y a des () où je transmets des paramètres
+- qd il y a hash -> génère des codes si hashcode par exemple (normalement pour sécuriser les données - encrypte)
+- int inputNumber = int.parse(stdin.readLineSync()!); // ce qu'il y a derrière tous les champs d'un formulaire
+- on peut changer un nom de variable présent x fois dans un prog et le changer en 1 fois, clic droit sur la variable et Rename symbol
+- quitter un prog qui tourne ds terminal en cas de changmt prog en cours : ctrl  + c 
+
+- on déclare à l'extérieur d'un bloc car si déclarée dans un bloc, pas utilisable ailleurs = portée des variables
+
+int testPremier = 2;
+int result = 0;  /
+
+for(; testPremier < userInput; testPremier++){ 
+  result = userInput % testPremier;
+  print('Le modulo de $userInput % $testPremier est $result');
+}
+
+if(result <1 && result != userInput) {
+  print('$userInput est premier');
+} else {
+  print('$userInput n\'est premier');
+}
+
+- penser à parfois gérer plutôt l'exception
+- le ? autorise que la valeur soit nulle
+- dès qu'il y a des maths faire une recherche dart absolute par exemple et on trouve .abs
+
+- dart forg nous permettra le fullstack en dart alors qu'aujourd'hui que front
+
+- break fait sortir d'une boucle
+- return fait sortir d'une fonction
+- return ds if arrête le if qd condition atteinte, pas besoin de faire un else (car arrêterait
+  le if dès qu'un tour est différent de la cindition et sortira sans parcourir les autres lignes), 
+  dc juste un return après le if (voir exo sur les chambres  - fonction roomBooking)
+- exit fait sortir d'un programme
+
+- for   in   pour list/Map
+- for i++  pour les autres A reconfirmer
